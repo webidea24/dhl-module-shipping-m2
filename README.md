@@ -1,4 +1,9 @@
-**Warning: This extension is no longer supported and should not be used. You can find the official replacement extension [here on GitHub](https://github.com/netresearch/dhl-shipping-m2)**
+# WARNINGS
+This repo is a fork of https://github.com/netresearch/dhl-module-shipping-m2 which is not maintained anymore.
+
+In this repo the dependencies has been removed to support all magento versions.
+
+Use this on your own risk!
 
 DHL Shipping Extension
 ======================
